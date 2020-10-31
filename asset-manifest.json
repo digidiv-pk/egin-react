@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/egin-react/static/css/main.52769622.chunk.css",
-    "main.js": "/egin-react/static/js/main.8d59043d.chunk.js",
-    "main.js.map": "/egin-react/static/js/main.8d59043d.chunk.js.map",
+    "main.css": "/egin-react/static/css/main.53264e6b.chunk.css",
+    "main.js": "/egin-react/static/js/main.87b27b47.chunk.js",
+    "main.js.map": "/egin-react/static/js/main.87b27b47.chunk.js.map",
     "runtime-main.js": "/egin-react/static/js/runtime-main.0b4dd177.js",
     "runtime-main.js.map": "/egin-react/static/js/runtime-main.0b4dd177.js.map",
     "static/js/2.71d80cea.chunk.js": "/egin-react/static/js/2.71d80cea.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c254b5bf.chunk.js": "/egin-react/static/js/3.c254b5bf.chunk.js",
     "static/js/3.c254b5bf.chunk.js.map": "/egin-react/static/js/3.c254b5bf.chunk.js.map",
     "index.html": "/egin-react/index.html",
-    "static/css/main.52769622.chunk.css.map": "/egin-react/static/css/main.52769622.chunk.css.map",
+    "static/css/main.53264e6b.chunk.css.map": "/egin-react/static/css/main.53264e6b.chunk.css.map",
     "static/js/2.71d80cea.chunk.js.LICENSE.txt": "/egin-react/static/js/2.71d80cea.chunk.js.LICENSE.txt",
     "static/media/Polygon.35873a2b.svg": "/egin-react/static/media/Polygon.35873a2b.svg",
     "static/media/airConditioning.d64747d4.svg": "/egin-react/static/media/airConditioning.d64747d4.svg",
@@ -50,9 +50,14 @@
     "static/media/slider-1.48447d0a.mp4": "/egin-react/static/media/slider-1.48447d0a.mp4",
     "static/media/slider-2.2f7ebce1.mp4": "/egin-react/static/media/slider-2.2f7ebce1.mp4",
     "static/media/slider-3.4b840118.mp4": "/egin-react/static/media/slider-3.4b840118.mp4",
+    "static/media/slider-surrounding-1.8376aba0.jpg": "/egin-react/static/media/slider-surrounding-1.8376aba0.jpg",
+    "static/media/slider-surrounding-2.3e643a1c.jpg": "/egin-react/static/media/slider-surrounding-2.3e643a1c.jpg",
+    "static/media/slider-surrounding-3.cf1f8d0b.jpg": "/egin-react/static/media/slider-surrounding-3.cf1f8d0b.jpg",
+    "static/media/slider-surrounding-4.463f3176.jpg": "/egin-react/static/media/slider-surrounding-4.463f3176.jpg",
     "static/media/slider_slide1.43c19f6e.png": "/egin-react/static/media/slider_slide1.43c19f6e.png",
     "static/media/slider_slide2.38033bdd.png": "/egin-react/static/media/slider_slide2.38033bdd.png",
     "static/media/slider_slide3.793a4cd9.png": "/egin-react/static/media/slider_slide3.793a4cd9.png",
+    "static/media/star.2eb9a613.svg": "/egin-react/static/media/star.2eb9a613.svg",
     "static/media/transport.5111516f.svg": "/egin-react/static/media/transport.5111516f.svg",
     "static/media/waterSupply.8f438a0b.svg": "/egin-react/static/media/waterSupply.8f438a0b.svg",
     "static/media/youtube.0512449f.svg": "/egin-react/static/media/youtube.0512449f.svg"
@@ -60,7 +65,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b4dd177.js",
     "static/js/2.71d80cea.chunk.js",
-    "static/css/main.52769622.chunk.css",
-    "static/js/main.8d59043d.chunk.js"
+    "static/css/main.53264e6b.chunk.css",
+    "static/js/main.87b27b47.chunk.js"
   ]
 }
