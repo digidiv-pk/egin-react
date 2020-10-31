@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/egin-react/static/css/main.c84c0cb9.chunk.css",
-    "main.js": "/egin-react/static/js/main.03d7d135.chunk.js",
-    "main.js.map": "/egin-react/static/js/main.03d7d135.chunk.js.map",
-    "runtime-main.js": "/egin-react/static/js/runtime-main.d8275d00.js",
-    "runtime-main.js.map": "/egin-react/static/js/runtime-main.d8275d00.js.map",
-    "static/js/2.f6561375.chunk.js": "/egin-react/static/js/2.f6561375.chunk.js",
-    "static/js/2.f6561375.chunk.js.map": "/egin-react/static/js/2.f6561375.chunk.js.map",
-    "static/js/3.01ea8e87.chunk.js": "/egin-react/static/js/3.01ea8e87.chunk.js",
-    "static/js/3.01ea8e87.chunk.js.map": "/egin-react/static/js/3.01ea8e87.chunk.js.map",
+    "main.css": "/egin-react/static/css/main.4f84c2ea.chunk.css",
+    "main.js": "/egin-react/static/js/main.8d59043d.chunk.js",
+    "main.js.map": "/egin-react/static/js/main.8d59043d.chunk.js.map",
+    "runtime-main.js": "/egin-react/static/js/runtime-main.0b4dd177.js",
+    "runtime-main.js.map": "/egin-react/static/js/runtime-main.0b4dd177.js.map",
+    "static/js/2.71d80cea.chunk.js": "/egin-react/static/js/2.71d80cea.chunk.js",
+    "static/js/2.71d80cea.chunk.js.map": "/egin-react/static/js/2.71d80cea.chunk.js.map",
+    "static/js/3.c254b5bf.chunk.js": "/egin-react/static/js/3.c254b5bf.chunk.js",
+    "static/js/3.c254b5bf.chunk.js.map": "/egin-react/static/js/3.c254b5bf.chunk.js.map",
     "index.html": "/egin-react/index.html",
-    "static/css/main.c84c0cb9.chunk.css.map": "/egin-react/static/css/main.c84c0cb9.chunk.css.map",
-    "static/js/2.f6561375.chunk.js.LICENSE.txt": "/egin-react/static/js/2.f6561375.chunk.js.LICENSE.txt",
+    "static/css/main.4f84c2ea.chunk.css.map": "/egin-react/static/css/main.4f84c2ea.chunk.css.map",
+    "static/js/2.71d80cea.chunk.js.LICENSE.txt": "/egin-react/static/js/2.71d80cea.chunk.js.LICENSE.txt",
     "static/media/Polygon.35873a2b.svg": "/egin-react/static/media/Polygon.35873a2b.svg",
     "static/media/airConditioning.d64747d4.svg": "/egin-react/static/media/airConditioning.d64747d4.svg",
     "static/media/alarm.573dcaab.svg": "/egin-react/static/media/alarm.573dcaab.svg",
@@ -47,6 +47,9 @@
     "static/media/parking.367d0ac7.svg": "/egin-react/static/media/parking.367d0ac7.svg",
     "static/media/index.scss": "/egin-react/static/media/pattern-background.7f3d0be4.png",
     "static/media/school.85ecd487.svg": "/egin-react/static/media/school.85ecd487.svg",
+    "static/media/slider-1.48447d0a.mp4": "/egin-react/static/media/slider-1.48447d0a.mp4",
+    "static/media/slider-2.2f7ebce1.mp4": "/egin-react/static/media/slider-2.2f7ebce1.mp4",
+    "static/media/slider-3.4b840118.mp4": "/egin-react/static/media/slider-3.4b840118.mp4",
     "static/media/slider_slide1.43c19f6e.png": "/egin-react/static/media/slider_slide1.43c19f6e.png",
     "static/media/slider_slide2.38033bdd.png": "/egin-react/static/media/slider_slide2.38033bdd.png",
     "static/media/slider_slide3.793a4cd9.png": "/egin-react/static/media/slider_slide3.793a4cd9.png",
@@ -55,9 +58,9 @@
     "static/media/youtube.0512449f.svg": "/egin-react/static/media/youtube.0512449f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8275d00.js",
-    "static/js/2.f6561375.chunk.js",
-    "static/css/main.c84c0cb9.chunk.css",
-    "static/js/main.03d7d135.chunk.js"
+    "static/js/runtime-main.0b4dd177.js",
+    "static/js/2.71d80cea.chunk.js",
+    "static/css/main.4f84c2ea.chunk.css",
+    "static/js/main.8d59043d.chunk.js"
   ]
 }
